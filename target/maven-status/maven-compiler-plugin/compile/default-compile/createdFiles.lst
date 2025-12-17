@@ -1,0 +1,6 @@
+com/example/taskmanager/TaskManagerApplication.class
+com/example/taskmanager/config/WebConfig.class
+com/example/taskmanager/config/WebConfig$1.class
+com/example/taskmanager/controller/TaskController.class
+com/example/taskmanager/model/Task.class
+com/example/taskmanager/service/TaskService.class
